@@ -1,1 +1,1 @@
-Front<end>, UI / UX / Graphic Design
+Front<'end'>, UI / UX / Graphic Design
