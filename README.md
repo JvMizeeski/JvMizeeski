@@ -1,5 +1,5 @@
 ### João Vitor Mizeeski 👨‍💻  
-**Web Developer | UX/UI Designer | WordPress & Webflow Specialist**
+**Web Developer | UX/UI Designer | Software Engineer**
 
 Atualmente atuo na [Nexxera](https://www.nexxera.com/), com foco em design de interfaces, sites e LPs, desenvolvimento web e criação de soluções digitais centradas no usuário.
 
