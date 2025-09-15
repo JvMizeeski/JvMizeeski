@@ -5,10 +5,9 @@ Atualmente atuo na [Nexxera](https://www.nexxera.com/), com foco em design de in
 
 ---
 
-- 💼 Responsável por projetos de interfaces e melhorias em sistemas internos e institucionais  
-- 🧠 Pós-graduação em Engenharia de Software (PUC-Rio)  
-- 🤖 Criador do NexxBot — assistente de IA interno para automação e acesso a processos empresariais  
-- 📈 Interesse em CI/CD, microserviços, backend com Python, UX Engineering e IA aplicada  
+- Responsável por projetos de interfaces e melhorias em sistemas internos e institucionais  
+- Criador do NexxBot — assistente de IA interno para automação e acesso a processos empresariais  
+- Interesse em CI/CD, microserviços, backend com Python, UX Engineering e IA aplicada  
 
 ---
 
