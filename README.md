@@ -1,14 +1,11 @@
 ### João Vitor Mizeeski 👨‍💻  
-**Web Developer | UX/UI Designer | Software Engineer**
+**Product Designer | UX/UI Designer | Software Engineer**
 
-Atualmente atuo na [Nexxera](https://www.nexxera.com/), com foco em design de interfaces, sites e LPs, desenvolvimento web e criação de soluções digitais centradas no usuário. Atuo também como prestador de serviços para criação de sites, projetos de design, interfaces, pesquisas e arquiteturas estruturais.
+Sou Product Designer especializado em UX/UI e design estratégico, com experiência prática conectando design, tecnologia e produto para criar experiências digitais completas.
 
----
+Atuo do discovery ao delivery, unindo pesquisa com usuários, prototipagem e design visual a uma visão técnica de implementação. Minha abordagem é centrada no usuário, mas orientada a impacto e negócio, buscando entregar produtos escaláveis, consistentes e com propósito.
 
-- Crio sites modernos e focados em acessibilidade e usabilidade, para todos os tipos de empresa.
-- Responsável por projetos de interfaces e melhorias em sistemas internos e institucionais  
-- Criador do NexxBot — assistente de IA interno para automação e acesso a processos empresariais  
-- Interesse em CI/CD, microserviços, backend com Python, UX Engineering e IA aplicada  
+Hoje atuo como Product Designer na Multidrop GmbH (Alemanha), criando experiências digitais premium para o mercado europeu. Antes disso, trabalhei com Web design, UX e desenvolvimento web em projetos de alta performance no Grupo Nexxes e na agência Plataforma 3/4 para várias empresas, com foco em conversão, acessibilidade e consistência de marca.
 
 ---
 
