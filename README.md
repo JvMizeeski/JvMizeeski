@@ -1,29 +1,17 @@
-### João Vitor Mizeeski 👨‍💻  
-**Product Designer | UX/UI Designer | Software Engineer**
+João Vitor Mizeeski 🧠💻
+Product Designer | Behavioral Engineer | Software Engineer
 
-Sou Product Designer especializado em UX/UI e design estratégico, com experiência prática conectando design, tecnologia e produto para criar experiências digitais completas.
+I build digital systems designed for the human brain. My work operates at the intersection of Software Engineering, UX/UI Design, and Neuroscience, focusing on high-complexity environments where logic meets human cognition.
 
-Atuo do discovery ao delivery, unindo pesquisa com usuários, prototipagem e design visual a uma visão técnica de implementação. Minha abordagem é centrada no usuário, mas orientada a impacto e negócio, buscando entregar produtos escaláveis, consistentes e com propósito.
+Currently at Essentia Technologies, I am focused on the Easy Health ecosystem, applying Behavioral Engineering and Choice Architecture to optimize clinical workflows and reduce cognitive load. I specialize in scaling products through Atomic Design Systems and evidence-based design.
 
-Hoje atuo como Product Designer na Multidrop GmbH (Alemanha), criando experiências digitais premium para o mercado europeu. Antes disso, trabalhei com Web design, UX e desenvolvimento web em projetos de alta performance no Grupo Nexxes e na agência Plataforma 3/4 para várias empresas, com foco em conversão, acessibilidade e consistência de marca.
+🎓 Academic Path: Business Administration → UX Design → Software Engineering → Neuroscience & Human Behavior.
 
----
+🔬 Research Interests: Neurobiometrics, Decision-making, and Complex Systems.
 
-### 💻 Minha Stack
+🚀 Entrepreneurship: Co-founder at Haky Club, exploring behavioral patterns in the fitness & lifestyle market.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-</p>
+🛠 Technical Stack & Tools
+📍 São José/SC – Brasil
 
----
-
-📍 Palhoça/SC – Brasil  
-📬 [LinkedIn](https://br.linkedin.com/in/joao-mizeeski)
+📬 LinkedIn | Portfolio
