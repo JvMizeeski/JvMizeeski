@@ -9,7 +9,7 @@ Academic Path: Business Administration → UX Design → Software Engineering �
 
 Research Interests: Neurobiometrics, Decision-making, and Complex Systems.
 
-Entrepreneurship: UX/UI Desigern at Essentia Technologies | Co-founder at Haky Club, exploring behavioral patterns in the fitness & lifestyle market.
+Entrepreneurship: UX/UI Designer at Essentia Technologies | Co-founder at Haky Club, exploring behavioral patterns in the fitness & lifestyle market.
 
 São José/SC – Brasil
 
