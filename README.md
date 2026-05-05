@@ -1,5 +1,5 @@
-João Vitor Mizeeski
-Product Designer | Behavioral Engineer | Software Engineer
+João Vitor Mizeeski -> 
+ Product Designer | Behavioral Engineer | Software Engineer
 
 I build digital systems designed for the human brain. My work operates at the intersection of Software Engineering, UX/UI Design, and Neuroscience, focusing on high-complexity environments where logic meets human cognition.
 
